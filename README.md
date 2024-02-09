@@ -10,7 +10,7 @@ Current version: 1.0
 3. Setup **.env** file.
 4. Create a file called **account.txt** and enter your account credentials there.
 5. Create a file called **proxy.txt** and enter your proxy credentials there.
-6. Go to *src/* and run **main.py** file.
+6. Go to src/ and run **main.py** file.
 
 ## ⚙️ Environment variables
 Before running the program, make sure that the correct settings are specified in the .env file.
